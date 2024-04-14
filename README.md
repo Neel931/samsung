@@ -1,2 +1,2 @@
 # samsung
-this is samsung website
+this is samsung website.
